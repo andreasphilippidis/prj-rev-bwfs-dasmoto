@@ -22,7 +22,7 @@ h2{
 #paint{
   background-color: skyblue;
 }
-#startingprice{
+.startingprice{
   font-weight: bold;
   color:blue;
 }
